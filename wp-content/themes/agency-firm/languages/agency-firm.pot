@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Agency Firm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-10 07:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: agency-firm"
+
+#. Name of the theme
+msgid "Agency Firm"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Agency Firm is also a creative and digital agency multipurpose WordPress "
+"theme that is perfect for startups, applications, businesses, events, "
+"personal portfolio services, social media marketing, enterprises, digital "
+"agencies, law firms, design studios, industries, photography, consultant "
+"websites, and much more. This theme comes with a pixel-perfect design and "
+"outstanding functionality. It comes with a dark proficient layout and great "
+"color scheme. It has some exotic features like clean code, advanced "
+"typography, sticky menu, logo upload, header image, Bootstrap 4 framework, "
+"built with SEO in mind, and being Mobile-ready, translation ready (WPML, "
+"Polylang) and it's built to be beautiful on all screen sizes. This theme "
+"supports the best Elementor page builder to create, edit, and update page "
+"designs as per the requirement. The Agency Firm also supports popular free "
+"and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, "
+"Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of "
+"ArileWP Pro https://themearile.com/arilewp-pro-theme/."
+msgstr ""
+
+#: footer.php:14 inc/customizer/agency-firm-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2024 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> Agency Firm theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/agency-firm-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/agency-firm-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""
